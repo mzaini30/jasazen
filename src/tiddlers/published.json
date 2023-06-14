@@ -7,5 +7,13 @@
 				"ringkasan" : "Jasa dan biayanya",
 				"kategori" : "Jasa",
 				"gambar" : "https://i.pinimg.com/474x/37/fd/ba/37fdbaa75dadf499e101fcfd428e6885--cyberpunk-character-cyberpunk-art.jpg"
+			},{
+				"title" : "Portfolio",
+				"published_date" : "20230614094454748",
+				"slug" : "portfolio",
+				"text" : "<p>Untuk portfolio, aku tidak mencantumkan projects komersial apa aja yang telah aku kerjakan, karena mengutamakan privasi. Sebagai gantinya, aku akan mencantumkan personal projects yang dapat memberi gambaran tentang skill olah website dan aplikasi Android yang aku miliki.</p><ul><li><a class=\"tc-tiddlylink-external\" href=\"https://play.google.com/store/apps/dev?id=5401138465689796048\" rel=\"noopener noreferrer\" target=\"_blank\">Aplikasi Android - Play Store</a></li><li><a class=\"tc-tiddlylink-external\" href=\"https://chrome-stats.com/a/c3lhZmFtYXJ5YW0yMjI\" rel=\"noopener noreferrer\" target=\"_blank\">Chrome Extension</a></li><li><a class=\"tc-tiddlylink-external\" href=\"https://www.npmjs.com/~mzaini30\" rel=\"noopener noreferrer\" target=\"_blank\">Node Package Manager</a></li><li><a class=\"tc-tiddlylink-external\" href=\"https://github.com/mzaini30\" rel=\"noopener noreferrer\" target=\"_blank\">Github</a></li><li><a class=\"tc-tiddlylink-external\" href=\"https://luarocks.org/modules/mzaini30\" rel=\"noopener noreferrer\" target=\"_blank\">Luarocks</a></li><li><a class=\"tc-tiddlylink-external\" href=\"https://addons.mozilla.org/en-US/firefox/user/17443701/\" rel=\"noopener noreferrer\" target=\"_blank\">Addons Firefox</a></li></ul>",
+				"ringkasan" : "Berbagai karya digital yang aku buat",
+				"kategori" : "Skill",
+				"gambar" : "https://c4.wallpaperflare.com/wallpaper/286/891/609/anime-c-programming-blue-eyes-book-cover-hd-wallpaper-preview.jpg"
 			}
 ]
