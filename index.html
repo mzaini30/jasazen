@@ -1,0 +1,44 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta charset="UTF-8" />
+    <title>Jasa Zen</title>
+    <link
+      rel="stylesheet"
+      href="./vendor/cdn.jsdelivr.net_npm_docsify@4_themes_vue.css"
+    />
+    <style>
+      .link-wa {
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 70px;
+        height: auto;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="app"></div>
+    <a class="link-wa" href="https://wa.me/6281545143654"
+      ><img src="./gambar/clipart-whatsapp-logo-5.png" alt=""
+    /></a>
+    <script>
+      window.$docsify = {
+        loadSidebar: true,
+        pagination: {
+          crossChapter: true,
+          crossChapterText: true,
+        },
+      };
+    </script>
+    <script type="module" src="./app/statistik.js"></script>
+    <script src="./vendor/cdn.jsdelivr.net_npm_docsify@4.js"></script>
+    <script src="./vendor/cdn.jsdelivr.net_npm_docsify-pagination_dist_docsify-pagination.min.js"></script>
+    <script src="./vendor/cdn.jsdelivr.net_npm_docsify_lib_plugins_search.min.js"></script>
+  </body>
+</html>
